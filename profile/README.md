@@ -31,7 +31,6 @@
       <h3><b>Artem Saveliev</b></h3>
       <p>Backend Developer</p>
     </td>
-    <td></td> 
   </tr>
   <tr>
     <td>
@@ -61,13 +60,6 @@
       </a>
       <h3><b>Boris Sergeev</b></h3>
       <p>Backend Developer</p>
-    </td>
-    <td>
-      <a href="https://github.com/Cyber-bober">
-        <img width="160px" height="160px" src="https://github.com/Cyber-bober.png?size=160" alt="Vladislav Bikov" />
-      </a>
-      <h3><b>Vladislav Bikov</b></h3>
-      <p>Frontend Developer</p>
     </td>
   </tr>
 
